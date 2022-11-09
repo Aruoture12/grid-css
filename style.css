@@ -1,0 +1,34 @@
+body {
+    align-items: center;
+    background-color: dodgerblue;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.slide {
+    margin: 50px auto;
+}
+
+h1 {
+    color: azure;
+}
+
+.imgcontainer img {
+    width: 600px;
+    height: 400px;
+}
+
+.btn {
+    border: none;
+    outline: none;
+    background: #888;
+    padding: 10px 30px;
+    font-size: 20px;
+    cursor: pointer;
+    margin: 10px auto;
+    color: white;
+}
+
+.btn:hover {
+    background: black;
+}
